@@ -73,7 +73,7 @@ Este projeto visa apresentar uma análise abrangente das **vendas da Zoop no ano
 
 ---
 
-## ✅ Conclusões e Recomendações
+ ✅ Conclusões e Recomendações
 
 - A Zoop demonstrou **crescimento sólido e sustentável** em 2023.
 - Investimentos em **pagamentos digitais e programas de fidelização** (como o cashback) mostraram-se eficazes.
@@ -82,7 +82,7 @@ Este projeto visa apresentar uma análise abrangente das **vendas da Zoop no ano
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+ 🧪 Tecnologias Utilizadas
 
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Jupyter Notebook
